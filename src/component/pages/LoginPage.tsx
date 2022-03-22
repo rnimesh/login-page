@@ -1,6 +1,6 @@
 import React, { FC, useState } from "react";
-import NZlogo from "../../assets/logo.png";
-import backgroundImage from "../../assets/bg.png";
+import NZlogo from "../../assets/images/logo.png";
+import backgroundImage from "../../assets/images/bg.png";
 import Form from "../molecule/LoginForm";
 import Alert from "../atom/Alert";
 

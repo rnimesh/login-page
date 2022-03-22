@@ -1,6 +1,6 @@
 import React from "react"
-import WarningIcon from '../../assets/Vector.png'
-import CloseIcon from '../../assets/close.png'
+import WarningIcon from '../../assets/images/Vector.png'
+import CloseIcon from '../../assets/images/close.png'
 
 type AlertProps={
     // handleClick:(event: React.MouseEvent<HTMLImageElement>)=>void
